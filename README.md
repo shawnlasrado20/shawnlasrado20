@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shawn lasrado</h1>
-<h3 align="center">I’m a passionate frontend developer with a growing interest in data science and machine learning. While I enjoy crafting intuitive user interfaces and seamless web experiences, I’m equally excited about uncovering insights from data, building predictive models, and solving complex problems with code.</h3>
+<h3 align="center">I’m an aspiring Machine Learning and AI professional with a strong foundation in software development especially frontend technologies. My journey started with building user interfaces, but over time, I’ve grown deeply passionate about data science, algorithms, and building intelligent systems that solve real-world problems. I'm currently focused on mastering machine learning, data analysis, and model deployment using Python, and actively working on projects that apply these skills. My goal is to contribute to ML/AI-driven products and be part of teams pushing the boundaries of intelligent technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
