@@ -1,14 +1,14 @@
 # Hey there! 👋  
-I’m Shawn, an aspiring **Machine Learning & AI engineer** who started off building beautiful user interfaces — and somewhere along the way, fell in love with data, algorithms, and intelligent systems.  
+I’m Shawn lasrado, an aspiring **Machine Learning & AI engineer** who started off building beautiful user interfaces and somewhere along the way, fell in love with data, algorithms, and intelligent systems.  
 
 If an idea sparks in my head, I’ll probably build it, train it, and deploy it. 🚀  
 Right now, I’m deep-diving into **machine learning**, **data analysis**, and **model deployment** using **Python**, **Flask**, and **TensorFlow**.  
 
-My main tech stack?  
-**React**, **React Native**, **Python**, **Flask**, **MariaDB**, and **TensorFlow**.  
-My favorite tools: **VS Code**, **Figma**, and a strong cup of coffee ☕.  
+My main stack?  
+**Python**, **TensorFlow**, **PyTorch**, **scikit-learn**, **Pandas**, **NumPy**, and **Flask**.  
+My favorite tools: **VS Code**, **Jupyter Notebook**, and a strong cup of coffee ☕.
 
-I’ve built apps that analyze sentiment, automate workflows, and visualize data — but my favorite ones are the projects that make people go, *“Wait, an AI did that?”* 😄  
+I’ve built apps that analyze sentiment, automate workflows, and visualize data but my favorite ones are the projects that make people go, *“Wait, an AI did that?”* 😄  
 
 When I’m not coding, I’m usually reading about AI breakthroughs or brainstorming my next side project.  
 
