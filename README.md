@@ -6,7 +6,7 @@ Right now, I’m deep-diving into **machine learning**, **data analysis**, and *
 
 My main stack?  
 **Python**, **TensorFlow**, **PyTorch**, **scikit-learn**, **Pandas**, **NumPy**, and **Flask**.  
-My favorite tools: **VS Code**, **Jupyter Notebook**, and a strong cup of coffee ☕.
+My favorite tools: **Cursor**, **Jupyter Notebook**, and a strong cup of coffee ☕.
 
 I’ve built apps that analyze sentiment, automate workflows, and visualize data but my favorite ones are the projects that make people go, *“Wait, an AI did that?”* 😄  
 
