@@ -10,7 +10,7 @@ AI engineer in the UAE. I ship voice agents to production for a living, and buil
 
 ### Building now
 
-**sealed-council**: blind peer review for AI coding agents. Claude Code, Codex and Cursor each answer the same question, then rank each other's answers without knowing who wrote what. Names come back only after the verdict. Open source, launching 14 Nov 2026.
+**[sealed-council](https://github.com/shawnlasrado20/sealed-council)**: blind peer review for AI coding agents. Claude Code, Codex and Cursor each answer the same question, then rank each other's answers without knowing who wrote what. Names come back only after the verdict. Open source, v0.1.0 out now. Benchmark: the council beat a single agent on 12 of 12 tasks (blind AI judges; caveats in the repo).
 
 ### Projects
 
